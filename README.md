@@ -17,7 +17,7 @@ A college of distinction in Science and Technology committed to produce high cal
 4. Foster institutional effectiveness and efficiency for continuous improvement and total quality management.
 5. Produce graduates who are locally and internationally competent with high sense of nationalism.
 
-# Core Values
+## Core Values
 Mandaluyong College of Science and Technology Core Values represents the shared beliefs of the Mandalenyo. These shared beliefs are captured in the four ideals that define a genuine Mandaleniyo. As an institution, MCST upholds the values of: 
 - Naglilingkod. MCST not only promotes, but also puts forward provision of genuine service to the general
 public.
